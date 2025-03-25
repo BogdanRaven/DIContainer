@@ -1,5 +1,5 @@
 Using DI Container
-This DI (Dependency Injection) container makes it easy to manage dependencies in your application and simplifies the process of Inversion of Control.
+This DI (Dependency Injection) container makes it easy to manage dependencies in your Unity project and simplifies the process of Inversion of Control.
 
 Binding
 Before you can use services, you need to bind them to the DI container. To do this, use the Bind or BindSingle methods.
