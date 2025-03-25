@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace CodeBase.Infrastructure.Services.DIContainer
+namespace Container
 {
   public class ServicesResolver
   {

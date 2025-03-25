@@ -1,4 +1,4 @@
-namespace CodeBase.Infrastructure.Services.DIContainer
+namespace Container
 {
   public interface IService
   {

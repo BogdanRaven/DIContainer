@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CodeBase.Infrastructure.Services.DIContainer
+namespace Container
 {
     public class AllServices
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodeBase.Infrastructure.Services.DIContainer
+namespace Container
 {
   public interface IDisposableService : IDisposable, IService
   {
