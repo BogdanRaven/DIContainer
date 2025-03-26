@@ -5,7 +5,7 @@ This DI (Dependency Injection) container makes it easy to manage dependencies in
 You can install this package in Unity using **Unity Package Manager**:
 1. Open `Window` → `Package Manager`.
 2. Click `+` → `Add package from git URL...`.
-3. Enter: https://github.com/BogdanRaven/DIContainer.git
+3. Enter: [https://github.com/BogdanRaven/DIContainer.git](https://github.com/BogdanRaven/DIContainer.git)
 4. Click `Add`, and Unity will download the package.
 
 Binding
